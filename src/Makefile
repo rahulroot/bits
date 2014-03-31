@@ -1,4 +1,4 @@
-# Makefile to build tree driver program
+# Makefile to build driver program
 # --- macros
 CC=g++
 CFLAGS=  -Wall -g
